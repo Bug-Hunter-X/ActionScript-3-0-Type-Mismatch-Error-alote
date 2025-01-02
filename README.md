@@ -1,0 +1,3 @@
+This repository contains an example of a type mismatch error in ActionScript 3.0 and its solution. The bug.as file demonstrates the error, while bugSolution.as provides a corrected version of the code.
+
+The error occurs when passing an argument of an incorrect type to a function. The solution involves carefully checking the data types of the arguments passed to functions to ensure that they match the expected types.
